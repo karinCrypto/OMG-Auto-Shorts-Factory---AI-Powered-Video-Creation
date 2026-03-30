@@ -3,7 +3,7 @@ Stop wasting hours on editing. OMG Auto Shorts Factory is the ultimate AI-powere
 
 
 
-🚀 Key Features:
+#  Core Functionalities:
 
 Smart Factory Engine: Generate high-quality short-form content using advanced AI logic.
 
@@ -14,3 +14,13 @@ SEO Optimized: Automatically generates viral-ready titles, descriptions, and tag
 Bulk Processing: Create and schedule an entire week's worth of content in one session.
 
 Transform your creative workflow. Don't just create—automate with OMG.
+
+Automated Content Pipeline: Integrated workflow from raw idea to rendered short-form video.
+
+One-Click Deployment: Direct API-less (or secure API) upload simulation for maximum efficiency.
+
+Template Customization: Choose from various "Factory Templates" to maintain your brand's unique style.
+
+V3 Manifest Compliant: Built on the latest Chrome Extension standards for secure and fast performance.
+
+Efficiency is no longer optional. Upgrade to the OMG Factory today.
