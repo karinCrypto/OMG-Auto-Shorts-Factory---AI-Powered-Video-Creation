@@ -24,3 +24,8 @@ Template Customization: Choose from various "Factory Templates" to maintain your
 V3 Manifest Compliant: Built on the latest Chrome Extension standards for secure and fast performance.
 
 Efficiency is no longer optional. Upgrade to the OMG Factory today.
+
+
+
+YouTube Shorts, AI Video Generator, Auto Upload, Content Automation, TikTok 
+Contact: karin.blockdev@gmail.com
